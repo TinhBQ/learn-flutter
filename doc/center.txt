@@ -1,0 +1,15 @@
+Các cách căng gữa màn hình:
+Cách 1:
+Center(
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+....
+))
+
+Cách 2: 
+SizedBox(
+      width: double.infinity,
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+....
+))

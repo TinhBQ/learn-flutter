@@ -1,0 +1,15 @@
+# Iterable
+- tập hợp các phần tử có thể được truy cập tuần tự.
+- List, Set, Queue, keys và values của Map
+- funtion:
++ first
++ last
++ firstWhere(() => {})
++ singleWhere(): qua toàn bộ Iterable cho đến phần tử cuối cùng, điều này có thể gây ra sự cố nếu Iterable là vô hạn hoặc chứa một tập hợp lớn các phần tử.
++ where()
++ any()
++ every()
++ takeWhile()
++ skipWhile()
++ map()
+

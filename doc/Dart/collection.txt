@@ -1,0 +1,39 @@
+Fixed Length List
+var list = List<int>.filled(5,0); 
+
+- indexOf
+- length
+- first
+- last
+- isEmpty
+- isNotEmpty
+- length
+- reversed
+- single
+- map
+- where
+
+- add: thêm cuối return list object
+- addAll
+- insert: thêm vào vị trí index
+- insertAll
+
+- remove
+- removeAt
+- removeLast
+- removeRange
+
+--------
+MAP
+- keys
+- values
+- isEmpty
+- isNotEmpty
+- length
+- containsKey
+- containsValue
+- clear
+- removeWhere
+
+
+- toList()

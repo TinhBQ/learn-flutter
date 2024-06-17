@@ -1,0 +1,37 @@
+# Data Types:
+1. Numbers: int, double, num
+1130.2232323233233.toStringAsFixed(2) // 1130.22
+- Convert Int To String In Dart: one.toString()
+- Convert Double To Int In Dart: num1.toInt()
+
+2. Strings: String
+- Multi-line String: ''' """
+- New line: \n
+- Tab: \t
+- raw String: r"The value of price is \t $price"
+- Convert String To Int In dart: int.parse()
+- Convert String To Double In Dart: double.parse()
+- isEmpty
+- isNotEmpty
+- length
+3. Booleans: bool
+4. Object
+5. Lists: List
+5. Maps: Map
+6. Sets: set Set<String> duy nhất
+7. Runes: runes
+8. Null: null
+
+
+var
+dynamic 
+
+
+is
+is!
+
+Assert: kiểm tra lỗi nếu điều kiện sai
+dart --enable-asserts file_name.dart
+
+
+

@@ -1,0 +1,2 @@
+arrow function = double calculateInterest(double principal, double rate, double time) =>
+    principal * rate * time / 100;
